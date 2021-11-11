@@ -1,4 +1,4 @@
-# Assignement_1-Python-
+# Psudo_code 
 
 Remark: the arguments of turn() and drive() functions have been chosen by simulating the code and observing the results
 
